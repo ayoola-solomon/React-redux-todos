@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "./React-redux-todos/static/js/main.39b685ad.chunk.js",
-    "main.js.map": "./React-redux-todos/static/js/main.39b685ad.chunk.js.map",
-    "runtime~main.js": "./React-redux-todos/static/js/runtime~main.709e4683.js",
-    "runtime~main.js.map": "./React-redux-todos/static/js/runtime~main.709e4683.js.map",
-    "static/css/2.8dd801da.chunk.css": "./React-redux-todos/static/css/2.8dd801da.chunk.css",
-    "static/js/2.cb188e8f.chunk.js": "./React-redux-todos/static/js/2.cb188e8f.chunk.js",
-    "static/js/2.cb188e8f.chunk.js.map": "./React-redux-todos/static/js/2.cb188e8f.chunk.js.map",
-    "static/js/3.8ac7a8ce.chunk.js": "./React-redux-todos/static/js/3.8ac7a8ce.chunk.js",
-    "static/js/3.8ac7a8ce.chunk.js.map": "./React-redux-todos/static/js/3.8ac7a8ce.chunk.js.map",
-    "static/js/4.6fabdcd4.chunk.js": "./React-redux-todos/static/js/4.6fabdcd4.chunk.js",
-    "static/js/4.6fabdcd4.chunk.js.map": "./React-redux-todos/static/js/4.6fabdcd4.chunk.js.map",
-    "index.html": "./React-redux-todos/index.html",
-    "precache-manifest.ae63f4f1cdbb96c46cba4689f487089b.js": "./React-redux-todos/precache-manifest.ae63f4f1cdbb96c46cba4689f487089b.js",
-    "service-worker.js": "./React-redux-todos/service-worker.js",
-    "static/css/2.8dd801da.chunk.css.map": "./React-redux-todos/static/css/2.8dd801da.chunk.css.map"
+    "main.js": "./static/js/main.39b685ad.chunk.js",
+    "main.js.map": "./static/js/main.39b685ad.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.17b24f69.js",
+    "runtime~main.js.map": "./static/js/runtime~main.17b24f69.js.map",
+    "static/css/2.8dd801da.chunk.css": "./static/css/2.8dd801da.chunk.css",
+    "static/js/2.cb188e8f.chunk.js": "./static/js/2.cb188e8f.chunk.js",
+    "static/js/2.cb188e8f.chunk.js.map": "./static/js/2.cb188e8f.chunk.js.map",
+    "static/js/3.8ac7a8ce.chunk.js": "./static/js/3.8ac7a8ce.chunk.js",
+    "static/js/3.8ac7a8ce.chunk.js.map": "./static/js/3.8ac7a8ce.chunk.js.map",
+    "static/js/4.6fabdcd4.chunk.js": "./static/js/4.6fabdcd4.chunk.js",
+    "static/js/4.6fabdcd4.chunk.js.map": "./static/js/4.6fabdcd4.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9c38c45eaa5b69aeb422091f033d38b3.js": "./precache-manifest.9c38c45eaa5b69aeb422091f033d38b3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.8dd801da.chunk.css.map": "./static/css/2.8dd801da.chunk.css.map"
   }
 }
